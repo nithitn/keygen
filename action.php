@@ -173,4 +173,6 @@ class action {
 spl_autoload_register(array('action', 'my_autoloader'));
 new action();
 
+//New line
+
 ?>
